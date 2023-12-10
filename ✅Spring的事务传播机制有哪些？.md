@@ -1,5 +1,3 @@
-已剪辑自: [https://www.yuque.com/hollis666/wo6vlm/ixgoek25ybmy7ws4](https://www.yuque.com/hollis666/wo6vlm/ixgoek25ybmy7ws4)
-
 ### 回答
 
 `Spring`的事务传播机制**用于控制在多个事务方法相互调用时事务的行为。**
